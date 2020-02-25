@@ -10,7 +10,7 @@ name: Contact Us
 
 **Customer Service Hotline: +65 6571 5888**
 
-WhatsApp: +65 9111 8388 sdfsdfsdfsd
+WhatsApp: +65 9111 8388
 
 Email: [customercare@marineonline.com](mailto:customercare@marineonline.com)
 
