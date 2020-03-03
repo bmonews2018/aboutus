@@ -12,12 +12,15 @@ name: Contact Us
 
 WhatsApp: +65 9111 8388
 
+<html>
+<body>
+<h4>Wechat or WhatsApp</h4>
+<img src="https://marineonline.oss-cn-hongkong.aliyuncs.com/wechat_qr_code_2.png" alt="Trulli" width="300" height="170">
+</html>
+
 Email: [customercare@marineonline.com](mailto:customercare@marineonline.com)
 
 Operating hours: 9am to 5.30pm, Monday to Friday (Closed on Saturday, Sunday and <a href="https://www.mom.gov.sg/employment-practices/public-holidays/">Public Holidays</a>).
-
-
-<br>
 
 ### Marine Online Pte Ltd
 
