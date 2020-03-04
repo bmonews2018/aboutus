@@ -8,7 +8,7 @@ name: Contact Us
 
 ### Customer Service
 
-**Customer Service Hotline: +65 6571 5888**
+**Hotline: +65 6571 5888**
 
 WhatsApp: +65 9111 8388
 
