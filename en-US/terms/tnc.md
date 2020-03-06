@@ -8,50 +8,41 @@ name: Terms of Use
 
 Welcome to the www.marineonline.com website and/or the mobile app.
 
-### Read these terms and conditions carefully.
+### Please read these terms and conditions carefully.
 
-The following Terms of Use govern your use and access of the Platform (defined below) and the use of the Services. By accessing the Platform and/or using the Services, you agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, do not access and/or use this Platform or the Services.
+1. The following Terms of Use govern your use and access of the Platform (defined below) and the use of the Services. By accessing the Platform **and/or using the Services, you agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, do not access and/or use this Platform or the Services.**
 
-Access to and use of password protected and/or secure areas of the Platform and/or use of the Services are restricted to Customers with accounts only. You may not obtain or attempt to obtain unauthorized access to such parts of this Platform and/or Services, or to any other protected information, through any means not intentionally made available by us for your specific use. A breach of this provision may be an offence under the Computer Misuse Act (Chapter 50A) of Singapore.
+1.1 Access to and use of password protected and/or secure areas of the Platform and/or use of the Services are restricted to Customers with accounts only. You may not obtain or attempt to obtain unauthorized access to such parts of this Platform and/or Services, or to any other protected information, through any means not intentionally made available by us for your specific use. A breach of this provision may be an offence under the Computer Misuse Act (Chapter 50A) of Singapore.
 
-If you are using this platform on behalf of your employer or principal: you must obtain the prior consent/authorization from your employer or principal, their acceptance of these Terms of Use and their agreement to take responsibility for: (i) your actions; (ii) any charges associated with your use of any of the Services or purchase of Products; and (iii) your acceptance and compliance with these Terms of Use. If you do not have the prior consent/authorization from your employer or principal, you must stop using/accessing this Platform and using the Services; otherwise you will be held personally liable/responsible for any charges associated with your usage/access to this Platform and the Services or purchase of Products.
+1.2 **If you are using this platform on behalf of your employer or principal:** you must obtain the prior consent/authorization from your employer or principal, their acceptance of these Terms of Use and their agreement to take responsibility for: (i) your actions; (ii) any charges associated with your use of any of the Services or purchase of Products; and (iii) your acceptance and compliance with these Terms of Use. **If you do not have the prior consent/authorization from your employer or principal, you must stop using/accessing this Platform and using the Services; otherwise you will be held personally liable/responsible for any charges associated with your usage/access to this Platform and the Services or purchase of Products.**
 
-Unless otherwise defined, the definitions and provisions in respect of interpretation set out in Schedule 1 will apply to these Terms of Use. 
+1.3	Unless otherwise defined, the definitions and provisions in respect of interpretation set out in Schedule 1 will apply to these Terms of Use.
 
-2.1 Guidelines to the use of Platform and/or Services: You agree to comply with any and all the guidelines, notices, operating rules and policies and instructions pertaining to the use of the Services and/or access to the Platform, as well as any amendments to the aforementioned, issued by us, from time to time. We reserve the right to revise these guidelines, notices, operating rules and policies and instructions at any time and you are deemed to be aware of and bound by any changes to the foregoing upon their publication on the Platform.
+2. Guidelines to the use of Platform and/or Services: You agree to comply with any and all the guidelines, notices, operating rules and policies and instructions pertaining to the use of the Services and/or access to the Platform, as well as any amendments to the aforementioned, issued by us, from time to time. We reserve the right to revise these guidelines, notices, operating rules and policies and instructions at any time and you are deemed to be aware of and bound by any changes to the foregoing upon their publication on the Platform.
 
-### 2.2 Restricted activities: You agree and undertake NOT to:
-(a) impersonate any person or entity or to falsely state or otherwise misrepresent your affiliation with any person or entity;
+2.1 Restricted activities: You agree and undertake NOT to:
 
+(a) Impersonate any person or entity or to falsely state or otherwise misrepresent your affiliation with any person or entity;
 (b) use the Platform or Services for illegal purposes;
-
-(c) attempt to gain unauthorized access to or otherwise interfere or disrupt other computer systems or networks connected to the Platform or Services;
-
+\(c\) attempt to gain unauthorized access to or otherwise interfere or disrupt other computer systems or networks connected to the Platform or Services;
 (d) post, promote or transmit through the Platform or Services any Prohibited Materials;
-
 (e) interfere with another’s utilization and enjoyment of the Platform or Services;
-
 (f) use or upload, in any way, any software or material that contains, or which you have reason to suspect that contains, viruses, damaging components, malicious code or harmful components which may impair or corrupt the Platform’s data or damage or interfere with the operation of another Customer’s computer or mobile device or the Platform or Services; and
-
 (g) use the Platform or Services other than in conformance with the acceptable use policies of any connected computer networks, any applicable Internet standards and any other applicable laws.
 
-2.3 Availability of Platform and Services: We may, from time to time and without giving any reason or prior notice, upgrade, modify, suspend or discontinue the provision of or remove, whether in whole or in part, the Platform or any Services and shall not be liable if any such upgrade, modification, suspension or removal prevents you from accessing the Platform or any part of the Services.
+2.2 Availability of Platform and Services: We may, from time to time and without giving any reason or prior notice, upgrade, modify, suspend or discontinue the provision of or remove, whether in whole or in part, the Platform or any Services and shall not be liable if any such upgrade, modification, suspension or removal prevents you from accessing the Platform or any part of the Services.
 
-2.4 Right, but not obligation, to monitor content: We reserve the right, but shall not be obliged to:
-
+2.3 Right, but not obligation, to monitor content: We reserve the right, but shall not be obliged to:
 (a) monitor, screen or otherwise control any activity, content or material on the Platform and/or the Services. We may in our sole and absolute discretion, investigate any violation of the terms and conditions contained herein and may take any action it deems appropriate;
-
 (b) prevent or restrict access of any Customer to the Platform and/or the Services;
-
-(c) report any activity it suspects to be in violation of any applicable law, statute or regulation to the appropriate authorities and to co-operate with such authorities; and/or
-
+\(c\) report any activity it suspects to be in violation of any applicable law, statute or regulation to the appropriate authorities and to co-operate with such authorities; and/or
 (d) to request any information and data from you in connection with your use of the Services and/or access of the Platform at any time and to exercise our right under this paragraph if you refuse to divulge such information and/or data or if you provide and we have reasonable grounds to suspect that you have provided inaccurate, misleading or fraudulent information and/or data.
 
-2.5 Privacy Policy: Your use of the Services and/or access to the Platform is also subject to the Privacy Policy as set out at https://aboutus.marineonline.com/docs/terms/policy.
+2.4 Privacy Policy: Your use of the Services and/or access to the Platform is also subject to the Privacy Policy as set out at https://aboutus.marineonline.com/docs/terms/policy.
 
-2.6 Terms & Conditions of Sale and Voucher Terms & Conditions: Sells and purchases of any Product would be subject to the Transaction Service Agreement as set out at https://aboutus.marineonline.com/docs/terms/tsa.
+2.5 Terms & Conditions of Sale and Voucher Terms & Conditions: Sells and purchases of any Product would be subject to the Transaction Service Agreement as set out at https://aboutus.marineonline.com/docs/terms/tsa.
 
-2.7 Additional terms: In addition to these Terms of Use, the use of specific aspects of the Materials and Services, more comprehensive or updated versions of the Materials offered by us or our designated sub-contractors, may be subject to additional terms and conditions, which will apply in full force and effect. All Services and transactions shall be subject to fees payable to us as set out at https://aboutus.marineonline.com/docs/terms/fee   
+2.6 Additional terms: In addition to these Terms of Use, the use of specific aspects of the Materials and Services, more comprehensive or updated versions of the Materials offered by us or our designated sub-contractors, may be subject to additional terms and conditions, which will apply in full force and effect. All Services and transactions shall be subject to fees payable to us as set out at https://aboutus.marineonline.com/docs/terms/fee   
 
 ### 3. Use of Services
 
@@ -60,9 +51,7 @@ Unless otherwise defined, the definitions and provisions in respect of interpret
 3.2 Restrictions: Use of the Services is limited to authorized Customers that are of legal age and who have the legal capacity to enter into and form contracts under any applicable law. Customers who have breached or are in breach of the terms and conditions contained herein and Customers who have been permanently or temporarily suspended from use of any of the Services may not use the Services even if they satisfy the requirements of this Clause 3.2.
 
 3.3 General terms of use: You agree:
-
 (a) to access and/or use the Services only for lawful purposes and in a lawful manner at all times and further agree to conduct any activity relating to the Services in good faith; and
-
 (b) to ensure that any information or data you post or cause to appear on the Platform in connection with the Services is accurate and agree to take sole responsibility for such information and data.
 
 3.4 Product description: While we endeavor to provide an accurate description of the Products, we do not warrant that such description is accurate, current or free from error.
@@ -76,11 +65,8 @@ Unless otherwise defined, the definitions and provisions in respect of interpret
 4.1 Username/Password: Certain Services that may be made available on the Platform may require creation of an account with us or for you to provide Personal Data. If you request to create an account with us, a Username and Password may either be: (i) determined and issued to you by us; or (ii) provided by you and accepted by us in our sole and absolute discretion in connection with the use of the Services and/or access to the relevant Platform. We may at any time in our sole and absolute discretion, request that you update your Personal Data or forthwith invalidate the Username and/or Password without giving any reason or prior notice and shall not be liable or responsible for any Losses suffered by or caused by you or arising out of or in connection with or by reason of such request or invalidation. You hereby agree to change your Password from time to time and to keep the Username and Password confidential and shall be responsible for the security of your account and liable for any disclosure or use (whether such use is authorized or not) of the Username and/or Password. You are to notify us immediately if you have knowledge that or have reason for suspecting that the confidentiality of the Username and/or Password has been compromised or if there has been any unauthorized use of the Username and/or Password or if your Personal Data requires updating.
 
 4.2 Purported use/access: You agree and acknowledge that any use of the Services and/or any access to the Platform and any information, data or communications referable to your Username and Password shall be deemed to be, as the case may be:
-
 (a) access to the relevant Platform and/or use of the Services by you; or
-
 (b) information, data or communications posted, transmitted and validly issued by you.
-
 You agree to be bound by any access of the Platform and/or use of any Services (whether such access or use are authorized by you or not) and you agree that we shall be entitled (but not obliged) to act upon, rely on or hold you solely responsible and liable in respect thereof as if the same were carried out or transmitted by you. You further agree and acknowledge that you shall be bound by and agree to fully indemnify us against any and all Losses attributable to any use of any Services and/or or access to the Platform referable to your Username and Password.
 
 ### 5. Intellectual property
@@ -94,23 +80,15 @@ You agree to be bound by any access of the Platform and/or use of any Services (
 ### 6. Our limitation of responsibility and liability
 
 6.1 No representations or warranties: The Services, the Platform and the Materials are provided on an “as is” and “as available” basis. All data and/or information contained in the Platform, the Services or the Materials are provided for informational purposes only. No representations or warranties of any kind, implied, express or statutory, including the warranties of non-infringement of third party rights, title, merchantability, satisfactory quality or fitness for a particular purpose, are given in conjunction with the Platform, the Services or the Materials. Without prejudice to the generality of the foregoing, we do not warrant:
-
 (a) the accuracy, timeliness, adequacy, commercial value or completeness of all data and/or information contained in the Platform, the Services or the Materials;
-
 (b) that the Platform, the Services or that any of the Materials will be provided uninterrupted, secure or free from errors or omissions, or that any identified defect will be corrected;
-
-(c) that the Platform, the Services or the Materials are free from any computer virus or other malicious, destructive or corrupting code, agent, program or macros; and
-
+\(c\) that the Platform, the Services or the Materials are free from any computer virus or other malicious, destructive or corrupting code, agent, program or macros; and
 (d) the security of any information transmitted by you or to you through the Platform or the Services, and you accept the risk that any information transmitted or received through the Services or the Platform may be accessed by unauthorized third parties and/or disclosed by us or our officers, employees or agents to third parties purporting to be you or purporting to act under your authority. Transmissions over the Internet and electronic mail may be subject to interruption, transmission blackout, delayed transmission due to internet traffic or incorrect data transmission due to the public nature of the Internet.
 
 6.2 Exclusion of liability: Marine Online shall not be liable to you for any Losses whatsoever or howsoever caused (regardless of the form of action) arising directly or indirectly in connection with:
-
 (a) any access, use and/or inability to use the Platform or the Services;
-
 (b) reliance on any data or information made available through the Platform and/or through the Services. You should not act on such data or information without first independently verifying its contents;
-
-(c) any system, server or connection failure, error, omission, interruption, delay in transmission, computer virus or other malicious, destructive or corrupting code, agent program or macros; and
-
+\(c\) any system, server or connection failure, error, omission, interruption, delay in transmission, computer virus or other malicious, destructive or corrupting code, agent program or macros; and
 (d) any use of or access to any other website or webpage linked to the Platform.
 
 6.3 At your own risk: Any risk of misunderstanding, error, damage, expense or Losses resulting from the use of the Platform is entirely at your own risk and we shall not be liable therefor.
@@ -127,30 +105,22 @@ You agree to be bound by any access of the Platform and/or use of any Services (
 
 8.2 Consent to receive e-mails: You consent to and authorize the use by us of any information provided by you (including Personal Data) for the purposes of sending informational and promotional e-mails to you. Your agreement to the provisions of this Clause 8.2 shall constitute your consent for the purpose of the provisions of any spam control laws (whether in Singapore or elsewhere). You may subsequently opt out of receiving promotional e-mails by clicking on the appropriate hyperlink in any promotional e-mail.
 
-8.3 Privacy Policy: You acknowledge that you have read and agree to the Privacy Policy at https://aboutus.marineonline.com/docs/terms/policy and consent to our collection, use and disclosure of your Personal Data for the purposes as set out in the Privacy Policy.
+8.3 Privacy Policy: You acknowledge that you have read and agree to the Privacy Policy at https://aboutus.marineonline.com/docs/terms/policy and consent to our collection, use and disclosure of your Personal Data for the purposes as set out in the Privacy Policy.
 
 8.4 The User hereby:
-
-a. consents, authorizes and permits the Site its Owner, operator, manager, servants and agents, to collect, use or disclose any personal data collected by the Site from the User in connection with the purposes set out in the Site’s Data Protection Policy (as updated from time to time, or as is otherwise required or permitted in accordance with applicable law), and in accordance with the PDPA provided that any collection, use or disclosure of the personal data are for the purposes of the facilities/services provided by the Site;
-
-b. (in the case of personal data provided by the User to the Site) represents and warrants to the Site that the User has notified the relevant individual of the purposes set out in the Site’s Data Protection Policy (as updated from time to time), and has obtained the relevant individual’s consent for the collection, use and disclosure of his or her personal data by the Site in connection with the purposes set out in the Site’s Data Protection Policy, and in accordance with the PDPA;
-
-c. agrees and undertakes that, to the extent it provides personal data to the Site and it has not obtained the requisite consent referred to in sub-clause (b) above in respect thereof, it shall, promptly upon providing the relevant personal data to the Site, procure all necessary notifications will be made to, and all authorizations and consents will be obtained from, the relevant individuals as may be required in accordance with the PDPA; and
-
-d. agrees and undertakes to notify the Site promptly upon its becoming aware of the withdrawal by the relevant individual of its consent to the collection, use and/or disclosure by the Site of any personal data provided by the User to the Site.
-
-e. For the purposes of this Clause 2:
-
-f. “PDPA” means the Personal Data Protection Act 2012 (Act 26 of 2012) of Singapore or equivalent legislation under any applicable law;
-
-g. “personal data” has the meaning given to such term in the PDPA.
-The Site reserves its rights, in its absolute and unfettered discretion, to do any and/or all of the following in relation to the Site and the usage thereof, with or without prior notice to the User:
-
-a. To change the rate of fees payable;
-b. To change the scope and nature of the services provided through the Site;
-c. To refuse or disallow the registration of any User, including the de-registration of any User;
-d. To remove any information or material provided by any User, which the Site, in its absolute and unfettered discretion, considers to be undesirable or in breach of any of the prohibitions stated above;
-e. To amend and/or supplement the Terms and Conditions herein.
+(a) consents, authorizes and permits the Site its Owner, operator, manager, servants and agents, to collect, use or disclose any personal data collected by the Site from the User in connection with the purposes set out in the Site’s Data Protection Policy (as updated from time to time, or as is otherwise required or permitted in accordance with applicable law), and in accordance with the PDPA provided that any collection, use or disclosure of the personal data are for the purposes of the facilities/services provided by the Site;
+(b) (in the case of personal data provided by the User to the Site) represents and warrants to the Site that the User has notified the relevant individual of the purposes set out in the Site’s Data Protection Policy (as updated from time to time), and has obtained the relevant individual’s consent for the collection, use and disclosure of his or her personal data by the Site in connection with the purposes set out in the Site’s Data Protection Policy, and in accordance with the PDPA;
+\(c\) agrees and undertakes that, to the extent it provides personal data to the Site and it has not obtained the requisite consent referred to in sub-clause (b) above in respect thereof, it shall, promptly upon providing the relevant personal data to the Site, procure all necessary notifications will be made to, and all authorizations and consents will be obtained from, the relevant individuals as may be required in accordance with the PDPA; and
+(d) agrees and undertakes to notify the Site promptly upon its becoming aware of the withdrawal by the relevant individual of its consent to the collection, use and/or disclosure by the Site of any personal data provided by the User to the Site.
+(e) For the purposes of this Clause 2:
+(f) “PDPA” means the Personal Data Protection Act 2012 (Act 26 of 2012) of Singapore or equivalent legislation under any applicable law;
+(g) “personal data” has the meaning given to such term in the PDPA.
+(h) The Site reserves its rights, in its absolute and unfettered discretion, to do any and/or all of the following in relation to the Site and the usage thereof, with or without prior notice to the User:
+(i) To change the rate of fees payable;
+(j) To change the scope and nature of the services provided through the Site;
+(k) To refuse or disallow the registration of any User, including the de-registration of any User;
+(l) To remove any information or material provided by any User, which the Site, in its absolute and unfettered discretion, considers to be undesirable or in breach of any of the prohibitions stated above;
+(m) To amend and/or supplement the Terms and Conditions herein.
 
 ### 9. Termination
 
@@ -161,9 +131,7 @@ e. To amend and/or supplement the Terms and Conditions herein.
 ### 10. Notices
 
 10.1 Notices from us: All notices or other communications given to you if:
-
 (a) communicated through any print or electronic media as we may select will be deemed to be notified to you on the date of publication or broadcast; or
-
 (b) sent by post or left at your last known address will be deemed to be received by you on the day following such posting or on the day when it was so left.
 
 10.2 Notices from you: You may only give notice to us in writing sent to our designated address or e-mail address, and we shall be deemed to have received such notice only upon receipt. While we endeavour to respond promptly to notices from you, we cannot guarantee that we will always respond with consistent speed.
@@ -199,18 +167,17 @@ e. To amend and/or supplement the Terms and Conditions herein.
 11.13 Assignment: You may not assign your rights under these Terms of Use without our prior written consent. We may assign our rights under these Terms of Use to any third party.
 
 11.14 Force Majeure: We shall not be liable for non-performance, error, interruption or delay in the performance of its obligations under these Terms of Use (or any part thereof) or for any inaccuracy, unreliability or unsuitability of the Platform’s and/or Services’ contents if this is due, in whole or in part, directly or indirectly to an event or failure which is beyond our reasonable control.
-
+ 
+
 ### Schedule 1
 
-Definitions and Interpretation
+### Definitions and Interpretation
 
 1.Definitions. Unless the context otherwise requires, the following expressions shall have the following meanings in these Terms of Use:
 
 1.1 “Customer” has the same meaning as in the Terms & Conditions of Sale.
 
-1.2 “Intellectual Property” means all copyright, patents, utility innovations, trade marks and service marks, geographical 
-
-indications, domain names, layout design rights, registered designs, design rights, database rights, trade or business names, rights protecting trade secrets and confidential information, rights protecting goodwill and reputation, and all other similar or corresponding proprietary rights and all applications for the same, whether presently existing or created in the future, anywhere in the world, whether registered or not, and all benefits, privileges, rights to sue, recover damages and obtain relief or other remedies for any past, current or future infringement, misappropriation or violation of any of the foregoing rights.
+1.2 “Intellectual Property” means all copyright, patents, utility innovations, trade marks and service marks, geographical indications, domain names, layout design rights, registered designs, design rights, database rights, trade or business names, rights protecting trade secrets and confidential information, rights protecting goodwill and reputation, and all other similar or corresponding proprietary rights and all applications for the same, whether presently existing or created in the future, anywhere in the world, whether registered or not, and all benefits, privileges, rights to sue, recover damages and obtain relief or other remedies for any past, current or future infringement, misappropriation or violation of any of the foregoing rights.
 
 1.3 【deleted】
 
@@ -228,19 +195,19 @@ indications, domain names, layout design rights, registered designs, design righ
 
 1.10 “Personal Data” means data, whether true or not, that can be used to identify, contact or locate you. Personal Data can include your name, e-mail address, billing address, shipping address, phone number and credit card information. “Personal Data” shall be deemed to include any data that you have provided to us when placing an Order, regardless of whether you have an account with us.
 
-1.11 “Platform” means (a) both the web and mobile versions of the website operated and/or owned by Marine Online which is presently located at the following URL: www.marineonline.com; and (b) the mobile applications made available from time to time by Marine Online, including the iOS and Android versions.
+1.11 “Platform” means (a) both the web and mobile versions of the website operated and/or owned by Marine Online which is presently located at the following URL: www.marineonline.com; and (b) the mobile applications made available from time to time by Marine Online, including the iOS and Android versions.
 
 1.12 “Privacy Policy” means the privacy policy set out at https://aboutus.marineonline.com/docs/terms/policy.
 
 1.13 “Product” means a product or service (including any installment of the product or any parts thereof) available for sale to Customers on the Platform.
 
-1.14 “Prohibited Material” means any information, graphics, photographs, data and/or any other material that: (a) contains any computer virus or other invasive or damaging code, program or macro; (b) infringes any third-party Intellectual Property or any other proprietary rights; (c) is defamatory, libellous or threatening; (d) is obscene, pornographic, indecent, counterfeited, fraudulent, stolen, harmful or otherwise illegal under the applicable law (including without limitation the provisions of the Singapore Broadcasting Authority (Class Licence) Notification 1996); and/or (e) is or may be construed as offensive and/or otherwise objectionable, in our sole opinion.
+1.14 “Prohibited Material” means any information, graphics, photographs, data and/or any other material that: (a) contains any computer virus or other invasive or damaging code, program or macro; (b) infringes any third-party Intellectual Property or any other proprietary rights; \(c\) is defamatory, libellous or threatening; (d) is obscene, pornographic, indecent, counterfeited, fraudulent, stolen, harmful or otherwise illegal under the applicable law (including without limitation the provisions of the Singapore Broadcasting Authority (Class Licence) Notification 1996); and/or (e) is or may be construed as offensive and/or otherwise objectionable, in our sole opinion.
 
 1.15 “Services” means services, information and functions made available by us at the Platform.
 
 1.16 “Submission” is as defined in Clause 8.1 of these Terms of Use.
 
-1.17 “Terms & Conditions of Sale” means the terms and conditions governing a Customer’s purchase of the Products and are set out at https://aboutus.marineonline.com/docs/terms/tsa
+1.17 “Terms & Conditions of Sale” means the terms and conditions governing a Customer’s purchase of the Products and are set out at https://aboutus.marineonline.com/docs/terms/tsa
 
 1.18 “Terms of Use” means the recitals, Clauses 1 to 11 and any Schedules to these terms and conditions.
 
@@ -250,7 +217,7 @@ indications, domain names, layout design rights, registered designs, design righ
 
 1.21 “you” and “your” refer to the individuals over the age of 18 or otherwise under the supervision of a parent or legal guardian; and/or the individuals over the age of 18 acting with the prior consent/authorization from and acting for and on behalf of an employer or principal.
 
-2. Interpretation:
+### 2. Interpretation:
 
 2.1 Any reference in these Terms of Use to any provision of a statute shall be construed as a reference to that provision as amended, re-enacted or extended at the relevant time.
 
