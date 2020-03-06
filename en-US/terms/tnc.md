@@ -6,7 +6,7 @@ name: Terms of Use
 
 [Last updated on 10th February 2020]
 
-Welcome to the <a href="www.marineonline.com " target="_blank">www.marineonline.com</a> website and/or the mobile app.
+Welcome to the www.marineonline.com</a> website and/or the mobile app.
 
 ### Please read these terms and conditions carefully.
 
