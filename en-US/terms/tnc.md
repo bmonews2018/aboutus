@@ -10,7 +10,7 @@ Welcome to the www.marineonline.com website and/or the mobile app.
 
 ### Please read these terms and conditions carefully.
 
-1. The following Terms of Use govern your use and access of the Platform (defined below) and the use of the Services. By accessing the Platform **and/or using the Services, you agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, do not access and/or use this Platform or the Services.**
+<p> 1. The following Terms of Use govern your use and access of the Platform (defined below) and the use of the Services. By accessing the Platform **and/or using the Services, you agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, do not access and/or use this Platform or the Services.** </p>
 
 1.1 Access to and use of password protected and/or secure areas of the Platform and/or use of the Services are restricted to Customers with accounts only. You may not obtain or attempt to obtain unauthorized access to such parts of this Platform and/or Services, or to any other protected information, through any means not intentionally made available by us for your specific use. A breach of this provision may be an offence under the Computer Misuse Act (Chapter 50A) of Singapore.
 
@@ -18,7 +18,7 @@ Welcome to the www.marineonline.com website and/or the mobile app.
 
 1.3	Unless otherwise defined, the definitions and provisions in respect of interpretation set out in Schedule 1 will apply to these Terms of Use.
 
-2. Guidelines to the use of Platform and/or Services: You agree to comply with any and all the guidelines, notices, operating rules and policies and instructions pertaining to the use of the Services and/or access to the Platform, as well as any amendments to the aforementioned, issued by us, from time to time. We reserve the right to revise these guidelines, notices, operating rules and policies and instructions at any time and you are deemed to be aware of and bound by any changes to the foregoing upon their publication on the Platform.
+<p> 2. Guidelines to the use of Platform and/or Services: You agree to comply with any and all the guidelines, notices, operating rules and policies and instructions pertaining to the use of the Services and/or access to the Platform, as well as any amendments to the aforementioned, issued by us, from time to time. We reserve the right to revise these guidelines, notices, operating rules and policies and instructions at any time and you are deemed to be aware of and bound by any changes to the foregoing upon their publication on the Platform. </p>
 
 2.1 Restricted activities: You agree and undertake NOT to:
 
