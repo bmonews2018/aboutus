@@ -207,7 +207,7 @@ You agree to be bound by any access of the Platform and/or use of any Services (
 
 1.16 “Submission” is as defined in Clause 8.1 of these Terms of Use.
 
-1.17 “Terms & Conditions of Sale” means the terms and conditions governing a Customer’s purchase of the Products and are set out at https://aboutus.marineonline.com/docs/terms/tsa
+1.17 “Terms & Conditions of Sale” means the terms and conditions governing a Customer’s purchase of the Products and are set out at https://aboutus.marineonline.com/docs/terms/agreement.
 
 1.18 “Terms of Use” means the recitals, Clauses 1 to 11 and any Schedules to these terms and conditions.
 
