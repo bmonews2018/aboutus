@@ -40,7 +40,7 @@ Welcome to the www.marineonline.com</a> website and/or the mobile app.
 
 2.4 Privacy Policy: Your use of the Services and/or access to the Platform is also subject to the Privacy Policy as set out at https://aboutus.marineonline.com/docs/terms/policy.
 
-2.5 Terms & Conditions of Sale and Voucher Terms & Conditions: Sells and purchases of any Product would be subject to the Transaction Service Agreement as set out at https://aboutus.marineonline.com/docs/terms/tsa.
+2.5 Terms & Conditions of Sale and Voucher Terms & Conditions: Sells and purchases of any Product would be subject to the Transaction Service Agreement as set out at https://aboutus.marineonline.com/docs/terms/agreement.
 
 2.6 Additional terms: In addition to these Terms of Use, the use of specific aspects of the Materials and Services, more comprehensive or updated versions of the Materials offered by us or our designated sub-contractors, may be subject to additional terms and conditions, which will apply in full force and effect. All Services and transactions shall be subject to fees payable to us as set out at https://aboutus.marineonline.com/docs/terms/fee   
 
