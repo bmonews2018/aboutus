@@ -72,17 +72,17 @@ name: Site Map
     <td></td>
   </tr>
   <tr>
-    <td><b><a href="https://www.marineonline.com/maritime-news">News</a></b></td>
+    <td><b><a href="https://www.marineonline.com/maritime-news">NEWS</a></b></td>
     <td><a href="https://www.marineonline.com/maritime-news">News</a></td>
     <td>a. Market<br>b. People<br>c. Report</td>
   </tr>
   <tr>
-    <td><b><a href="https://aboutus.marineonline.com/docs/knowus/aboutus">About Us</a></b></td>
+    <td><b><a href="https://aboutus.marineonline.com/docs/knowus/aboutus">ABOUT US</a></b></td>
     <td>1. <a href="https://aboutus.marineonline.com/docs/knowus/aboutus">About Marine Online</a><br>2. <a href="https://aboutus.marineonline.com/docs/knowus/ourservices">Our Services</a><br>3. <a href="https://aboutus.marineonline.com/docs/knowus/mediacentre">Media Centre</a><br>4. <a href="https://aboutus.marineonline.com/docs/knowus/sitemap">Site Map</a><br>5. <a href="https://aboutus.marineonline.com/docs/connect/contactus">Contact Us</a><br>6. <a href="https://aboutus.marineonline.com/docs/connect/joinus">Join Us</a><br></td>
     <td>7. <a href="https://aboutus.marineonline.com/docs/business/business_shipowner">Shipowner: How To Save Money And Time On MOL?</a><br>8. <a href="https://aboutus.marineonline.com/docs/business/business_supplier">Supplier: How To Make Money On MOL?</a><br>9. <a href="https://aboutus.marineonline.com/docs/business/business_support">Transaction Support Services</a><br>10. <a href="https://aboutus.marineonline.com/docs/terms/policy">Privacy Policy</a><br>11. <a href="https://aboutus.marineonline.com/docs/terms/tnc">Terms of Use</a><br>12. <a href="https://aboutus.marineonline.com/docs/terms/agreement">Transaction Services Agreement </a><br>13. <a href="https://aboutus.marineonline.com/docs/terms/fee">Service Fee Schedule</a><br>
   </tr>
   <tr>
-    <td rowspan="3"><b><a href="https://docs.marineonline.com/docs">Help Centre</a></b></td>
+    <td rowspan="3"><b><a href="https://docs.marineonline.com/docs">HELP CENTRE </a></b></td>
     <td><span style="font-weight:bold">1. For Buyer</span></td>
     <td>a. <a href="https://docs.marineonline.com/docs/buyer/mol_prod_ser_overview">MOL’s Products And Services Overview</a><br>b. <a href="https://docs.marineonline.com/docs/buyer/search_sup_prod_ser">Search For Suppliers, Products And Services</a><br>c. <a href="https://docs.marineonline.com/docs/buyer/rfq">RFQ (Request For Quotation)</a><br>d. <a href="https://docs.marineonline.com/docs/buyer/shopping_cart">Shopping Cart</a><br>e. <a href="https://docs.marineonline.com/docs/buyer/quotation_and_order">Quotation And Order</a><br>f. <a href="https://docs.marineonline.com/docs/buyer/payment">Payment</a><br>g. <a href="https://docs.marineonline.com/docs/buyer/logistics_delivery">Logistics Delivery</a><br>h. <a href="https://docs.marineonline.com/docs/buyer/complaints_and_disputes">Complaints And Disputes</a></td>
   </tr>
