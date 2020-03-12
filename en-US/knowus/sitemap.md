@@ -21,7 +21,7 @@ name: Site Map
     <td>b. <a href="https://www.marineonline.com/ship-supply/products?cateId=220389456266395660&catePid=220387843069968396&startPage=1">Lubricant Oil</a></td>
   </tr>
   <tr>
-    <td rowspan="4"><a href="https://www.marineonline.com/more-services/marine-services?cateId=220392223064195084&catePid=220385573699846156&startPage=1"><b>2. Insurance</b></td>
+    <td rowspan="4"><b>2. Insurance</b></td>
     <td>a. Corporate<br></td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@ name: Site Map
   </tr>
   <tr>
     <td><span style="font-weight:600">4. Crewing</span></td>
-    <td><a href="http://www.marineonline.com/company/search?bizType=manning_agency&category=CWMAN">a. Crew Manning</a><br><a href="https://www.marineonline.com/company/search?name=training">b. Crew Training</a></td>
+    <td><a href="https://www.marineonline.com/search/supplier?business_category[0]=CWMAN">a. Crew Manning</a><br><a href="https://www.marineonline.com/search/service?cateId=222846493944478209&catePid=220392733796204556&startPage=1&pageSize=10&layout=row">b. Crew Training</a></td>
   </tr>
   <tr>
     <td><span style="font-weight:600">5. Insurance</span></td>
@@ -72,8 +72,8 @@ name: Site Map
     <td></td>
   </tr>
   <tr>
-    <td><b><a href="https://www.marineonline.com/news">News</a></b></td>
-    <td><a href="https://www.marineonline.com/news">News</a></td>
+    <td><b><a href="https://www.marineonline.com/maritime-news">News</a></b></td>
+    <td><a href="https://www.marineonline.com/maritime-news">News</a></td>
     <td>a. Market<br>b. People<br>c. Report</td>
   </tr>
   <tr>
