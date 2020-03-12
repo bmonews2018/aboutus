@@ -42,7 +42,7 @@ name: Site Map
     <td>a. <a href="https://www.marineonline.com/crewing/training-courses?cateId=222845074709445633&startPage=1">Training</a></td>
   </tr>
   <tr>
-    <td rowspan="6"><a href="https://www.marineonline.com/company/search?bizType=supplier"><b>SUPPLIER</b></a></td>
+    <td rowspan="6"><a href="https://www.marineonline.com/search/supplier"><b>SUPPLIER</b></a></td>
     <td><span style="font-weight:600">1. Port Agency</span></td>
     <td>a. Cargo Operations<br>b. Husbandry Matters<br>c. Other Agency Services</td>
   </tr>
