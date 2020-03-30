@@ -15,6 +15,6 @@ name: Join Us
 
 Interested candidates are invited to email your comprehensive resume at [hr@marineonline.com](mailto:hr@marineonline.com).
 
-For more open positions, please click [here](https://www.jobstreet.com.sg/en/job-search/jobs-at-marine-online-pte-ltd/?ojs=15).
+For more open positions, please click [here](https://www.jobstreet.com.sg/en/job-search/jobs-at-marine-online-pte-ltd/).
 
 *We regret only shortlisted candidates will be notified..
