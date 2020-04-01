@@ -8,23 +8,18 @@ name: Contact Us
 
 ### Customer Service
 
-**Hotline: +65 6571 5888**
+|Location|Hotline|Other|
+|:-:|---|---|
+|**Singapore**|+65 6571 5888|Whatsapp +65 9111 8388|
+|**China**|+86 755 84366298|Wechat +65 9111 8388|
 
-WhatsApp: +65 9111 8388
+**Scan and chat with us:**
 
-<html>
-<body>
-<h4>Scan and chat with us:</h4>
-<img src="https://marineonline.oss-cn-hongkong.aliyuncs.com/wechat_qr_code_2.png" width="300" height="170">
-  </body>
-</html>
+![](https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_d1e0bfd0-73df-11ea-b731-4f83a7dee3da.jpg)
 
+**Email:** [customercare@marineonline.com](mailto:customercare@marineonline.com)
 
-
-
-Email: [customercare@marineonline.com](mailto:customercare@marineonline.com)
-
-Operating hours: 9am to 5.30pm, Monday to Friday (Closed on Saturday, Sunday and <a href="https://www.mom.gov.sg/employment-practices/public-holidays/">Public Holidays</a>)
+**Operating hours:** 9am to 5.30pm, Monday to Friday <br>(Closed on Saturday, Sunday and <a href="https://www.mom.gov.sg/employment-practices/public-holidays/">Public Holidays</a>)
 
 ### Marine Online Pte Ltd
 
