@@ -10,8 +10,8 @@ name: Contact Us
 
 |**Location**|**Hotline**|**Other**|
 |:-:|---|---|
-|**Singapore**|+65 6571 5888|Whatsapp +65 9111 8388|
-|**China**|+86 755 84366298|Wechat +65 9111 8388|
+|Singapore|+65 6571 5888|Whatsapp +65 9111 8388|
+|China|+86 755 84366298|Wechat +65 9111 8388|
 
 **Scan and chat with us:**
 
