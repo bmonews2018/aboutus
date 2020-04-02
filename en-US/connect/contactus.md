@@ -6,27 +6,61 @@ name: Contact Us
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/contact.jpg)
 
-### Customer Service
+### Singapore Headquarter
 
-|**Location**|**Hotline**|**Other**|
-|:-:|---|---|
-|Singapore|+65 6571 5888|Whatsapp +65 9111 8388|
-|China|+86 755 84366298|Wechat +65 9111 8388|
+<table>
+<tr>
+<td><b>Customer Service</b></td>
+<td><b>Scan To Chat</b></td>
+<td><b>Sales/Business Support</b></td>
+</tr>
+<tr>
+<td rowspan="3">Hotline: +65 6571 5888<br>Email: customercare@marineonline.com<br><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_fcacca70-74b0-11ea-b350-813b5c10a359.jpg"> Whatsapp: +65 9111 8388</td>
+<td rowspan="3"><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_0f7a2d00-74b1-11ea-b350-813b5c10a359.jpg"></td>
+<td>Mr. Kelvin +6598351196</td>
+</tr>
+<tr>
+<td>Mr. Eron +6583182381</td>
+</tr>
+<tr>
+<td>Ms. Sharon +6582182441</td>
+</tr>
+</table>
 
-**Scan and chat with us:**
-
-![](https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_d1e0bfd0-73df-11ea-b731-4f83a7dee3da.jpg)
-
-**Email:** [customercare@marineonline.com](mailto:customercare@marineonline.com)
-
-**Operating hours:** 9am to 5.30pm, Monday to Friday <br>(Closed on Saturday, Sunday and <a href="https://www.mom.gov.sg/employment-practices/public-holidays/">Public Holidays</a>)
-
-### Marine Online Pte Ltd
+### Marine Online Pte. Ltd.
 
 **Address:**
 
-10 Pasir Panjang Road #15&#47;16-01/02
-
-Mapletree Business City Singapore 117438
+10 Pasir Panjang Road #15&#47;16-01/02 Mapletree Business City Singapore 117438
 
 ![](https://www.marineonline.com/api/common/r/oss?path=prod/mall/17.jpg)
+
+### China Office
+
+<table>
+<tr>
+<td><b>Customer Service</b></td>
+<td><b>Scan To Chat</b></td>
+<td><b>Sales/Business Support</b></td>
+</tr>
+<tr>
+<td rowspan="3"> Hotline: +86 755 84366298 <br> Email: customercare@marineonline.com <br> <img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_9ddd3ed0-74b0-11ea-b350-813b5c10a359.jpg"> Wechat: +65 9111 8388 </td>
+<td rowspan="3"> <img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_e629b2e0-74b0-11ea-b350-813b5c10a359.jpg"> </td> 
+<td>Mr. Yan +86 13923832077</td>
+</tr>
+<tr>
+<td>Mr. Huang +86 13925221983</td>
+</tr>
+<tr>
+<td>Mr. Zhang +86 13603086796</td>
+</tr>
+</table>
+
+### Marine Online Ecommerce Co., Ltd. 
+### 海运易电商有限公司
+
+**Address:**
+
+Qianhai Complex A201, Qianwan Road 1, Qianhai Shenzhen-Hong Kong Cooperation Zone, Shenzhen,P.R.China<br>深圳市前海深港合作区前湾一路1号A栋201室
+
+![](https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_23d386c0-74b1-11ea-b350-813b5c10a359.jpg)
