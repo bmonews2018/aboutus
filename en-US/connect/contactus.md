@@ -11,13 +11,11 @@ name: Contact Us
 <table>
 <tr>
 <td><b>Customer Service</b></td>
-<td><b>Scan To Chat</b></td>
 <td><b>Sales/Business Support</b></td>
 <td><b><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_fcacca70-74b0-11ea-b350-813b5c10a359.jpg"> Whatsapp</b></td>
 </tr>
 <tr>
-<td rowspan="2">Hotline: +65 6571 5888<br>Email: customercare@marineonline.com<br><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_fcacca70-74b0-11ea-b350-813b5c10a359.jpg"> Whatsapp: +65 9111 8388</td>
-<td rowspan="3"><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_0f7a2d00-74b1-11ea-b350-813b5c10a359.jpg"></td>
+<td rowspan="2">Hotline: +65 6571 5888<br>Email: customercare@marineonline.com<br><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_fcacca70-74b0-11ea-b350-813b5c10a359.jpg"> Whatsapp: +65 9111 8388<br><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_0f7a2d00-74b1-11ea-b350-813b5c10a359.jpg"></td>
 <td>Mr. Kelvin +65 9835 1196</td><td><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_1a02b440-755b-11ea-b9e4-c72c93f84b2e.png"></td>
 </tr>
 <tr>
