@@ -36,19 +36,18 @@ name: Contact Us
 <table>
 <tr>
 <td><b>Customer Service</b></td>
-<td><b>Scan To Chat</b></td>
 <td><b>Sales/Business Support</b></td>
+<td><b><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_9ddd3ed0-74b0-11ea-b350-813b5c10a359.jpg"> Wechat</b></td>
 </tr>
 <tr>
-<td rowspan="3"> Hotline: +86 755 8436 6298 <br> Email: customercare@marineonline.com <br> <img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_9ddd3ed0-74b0-11ea-b350-813b5c10a359.jpg"> Wechat: +65 9111 8388 </td>
-<td rowspan="3"> <img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_e629b2e0-74b0-11ea-b350-813b5c10a359.jpg"> </td> 
-<td>Mr. Yan +86 139 2383 2077</td>
+<td rowspan="3"> Hotline: +86 755 8436 6298 <br> Email: customercare@marineonline.com <br> <img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_9ddd3ed0-74b0-11ea-b350-813b5c10a359.jpg"> Wechat: +65 9111 8388 <br> <img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_e629b2e0-74b0-11ea-b350-813b5c10a359.jpg"> </td>
+<td>Mr. Yan +86 139 2383 2077</td> <td><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_7debfd10-7a0e-11ea-83a3-e32b2ea83995.png"></td>
 </tr>
 <tr>
-<td>Mr. Huang +86 139 2522 1983</td>
+<td>Mr. Huang +86 139 2522 1983</td> <td><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_8f714f40-7a0e-11ea-83a3-e32b2ea83995.png"></td>
 </tr>
 <tr>
-<td>Mr. Zhang +86 136 0308 6796</td>
+<td>Mr. Zhang +86 136 0308 6796</td> <td><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_94709b40-7a0e-11ea-83a3-e32b2ea83995.png"></td>
 </tr>
 </table>
 
