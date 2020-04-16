@@ -58,4 +58,4 @@ name: Contact Us
 
 Level 61 Chang Fu Jin Mao Tower, No 5 Shihua Rd, Futian District, Shenzhen, Guangdong Province, China<br>中国广东省深圳市福田保税区市花路5号CFC长富金茂大厦61楼
 
-![](https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_d485dc80-7f82-11ea-b453-7deb054a9b8c.png)
+![](https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_93a948d0-7f8e-11ea-b453-7deb054a9b8c.jpg)
