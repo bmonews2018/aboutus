@@ -11,6 +11,7 @@ name: Media Centre
   * [Introducing Cash to Master (CTM) Service: Simplifying a Traditional Practice 海运在线推出船长备用金一口价送船服务 即将登陆中国市场](#introducing-cash-to-master-service)
   * [Marine Credits – Centralised Credit Facility for Maritime Industry 新加坡海运电商平台海运在线推出第三方授信服务](#marine-credits)
   * [Transforming Marine Procurement through Digitalization 海运在线：船东服务将迎来新电商时代](#transforming-marine-procurement-through-digitalization)
+  
 ---
 
 ### Mar 2020
