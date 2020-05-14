@@ -36,8 +36,6 @@ name: Marine Online Press Release
 
 全球船东联盟是由新加坡海运在线发起的一个面向全球中小船东的业务合作计划。该联盟的核心理念是“集中需求、集中采购”，将众多中小船东分散的采购需求，包括海上供油、备件物料、港口代理等集中到一起，然后在各个港口精选不超过3家授权服务商集中承接这些订单，从而给联盟船东提供更低的价格和更好的服务。据联盟秘书处介绍，船东联盟自2019年5月推出至今已经在全球100多个港口挑选了约1000家“授权服务商”完成资质认定，截止到2020年2月底，联盟采购金额突破2000万美元。
 
-  [Back to Top](pr#)
-
 #### Marine Online introduced Global Shipowner Alliance program
 
 ![](https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_e2fab210-94c5-11ea-88e2-0d075fde0218.png) 
@@ -75,8 +73,6 @@ Other benefits being a GSA member includes 0% chartering commission, complimenta
 据悉，给联盟船东提供好价格、好服务、统一授信这些还只是联盟计划的一部分，为了进一步提升联盟的价值，海运在线还将向联盟船东提供限量的欢迎礼包，包括租船零佣金服务、赠送全球船舶实时AIS监控服务、提供198美元一口价Cash to Master服务、提供国际一级银行间外汇转换服务、为联盟船东提供一对一专属客服等等，充分发挥互联网平台的资源整合价值，给联盟船东提供立竿见影的成本节约效果。
 
 船东联盟的发起单位海运在线是新加坡最大的海运电商平台公司，自2019年5月上线以来，凭借大量的模式创新和科技应用引起了海运行业的持续关注，吸引了大量船东和供应商注册使用。截止到2019年底平台各类供应商已经超过5000家，全面覆盖租船、备件物料、船舶供油、港口代理、船员劳务、船舶买卖、海事服务等主要业务模块，登记的产品和服务数量超过2万个，业务覆盖全球141个国家。此外，海运在线还拥有注册船东和管理公司超过400家，上线10个月的平台交易额达到3300万美元。更多信息请进入海运在线官网www.MarineOnline.com查看。
-
-  [Back to Top](pr#)
 
 ### Feb 2020
 
@@ -117,8 +113,6 @@ With the support from the industry players, exhibit the willingness and acceptan
 对于最终的成交价，杨凌以“保密协议”为由未进行透露，但可以肯定的是，此前该域名在阿里云上的挂牌价超过100万人民币。
 
 海运在线自2019年5月上线以来，凭借大量的模式创新和科技应用引起了海运行业的持续关注，吸引了大量船东和供应商注册使用。截止到目前平台各类供应商已经超过5000家，全面覆盖租船、备件物料、船舶供油、港口代理、船员劳务、船舶买卖、海事服务等业内主要业务模块，登记的产品和服务数量超过10000个，包括网页端和手机APP在内的用户使用量接近50万次，平台成交总额超千万美元（截至2019年底），展示了电商模式在海运行业的巨大生命力和关注度。此次MarineOnline公司收购MarineOnline.com顶级域名可谓名至实归，有望对平台的全球业务推广起到积极的推动作用。
-
-  [Back to Top](pr#)
 
 ### Jan 2020
 
@@ -161,8 +155,6 @@ Marine Online Chartering (Cargo Owner) APP is available in both IOS and Android 
 
 据悉，智能租船只是海运在线推出的系列在线服务之一，船东还可以通过平台预订海上供油、船舶代理、采购备件物料、招聘船员、在线投保以及买卖船舶等，每项服务都引入了成熟的互联网电商模式，不仅降低了采购价格还提升了采购体验，让传统的海运业也能够分享新科技和新模式带来的便利
 
-  [Back to Top](pr#)
-
 ### Oct 2019
 
 #### Introducing Cash to Master Service
@@ -203,8 +195,6 @@ Please visit https://bit.ly/2lioBoB for more information.
 目前，已经停靠新加坡港或进入新加坡领水的船舶都可以从平台申请船长备用金送船服务。海运在线此项服务将很快覆盖到更多的港口和国家。
 
 了解详情请访问https://bit.ly/2lioBoB 
-
-  [Back to Top](pr#)
 
 ### Sep 2019
 
@@ -250,8 +240,6 @@ Please visit https://bit.ly/2Le4Wiz for more information on Marine Credits.
 
 据记者了解，平台授信在正式推出前已经小范围开展了试运行，从实际交易情况来看已经得到了船东和供应商的热烈响应。海运在线作为新加坡最主要的海运电商平台之一，相信依托新加坡在全球海运行业的中心地位，有望引领全球海运行业在授信模式和支付模式方面的创新，促进海运业的转型和发展。
 
-  [Back to Top](pr#)
-
 ### May 2019
 
 #### Transforming Marine Procurement through Digitalization
@@ -290,8 +278,6 @@ Marine Online is a third party platform servicing the maritime industry globally
 
 作为一家为全球海运业提供第三方服务的公共平台，海运在线致力于为产业链各环节提供更好的中间服务，不断引入大数据、AI、区块链、智能终端等先进技术和成功模式，把海运电商这个蛋糕做的更大，促进分散在各个国家和港口的海运从业公司通过平台建立更加紧密、高效、透明的业务联系，共同分享创新模式带来的时间和成本收益。
 
-  [Back to Top](pr#)
-
 ### December 2018
 
 <table>
@@ -304,4 +290,4 @@ Marine Online is a third party platform servicing the maritime industry globally
   </tr>
 </table>
 
-  [Back to Top](pr#)
+  [Back to Top](mediacentre#)
