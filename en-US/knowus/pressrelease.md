@@ -4,16 +4,6 @@ name: Marine Online Press Release
 
 ## Marine Online Press Release
 
-  * [全球船东联盟在新加坡首次推出船用油团购活动](#全球船东联盟在新加坡首次推出船用油团购活动)
-  * [Marine Online introduced Global Shipowner Alliance program 全球船东联盟成立 中小船东将直接受益](#marine-online-introduced-global-shipowner-alliance-program)
-  * [Marine Online Acquires Domain MarineOnline.com 海运在线收购顶级域名MarineOnline.com](#marine-online-acquires-new-domain)
-  * [Discover the Easiest and Simplest Way to Charter a Vessel 海运在线推出“零佣金租船”业务](#discover-the-easiest-and-simplest-way-to-charter-a-vessel)
-  * [Introducing Cash to Master (CTM) Service: Simplifying a Traditional Practice 海运在线推出船长备用金一口价送船服务 即将登陆中国市场](#introducing-cash-to-master-service)
-  * [Marine Credits – Centralised Credit Facility for Maritime Industry 新加坡海运电商平台海运在线推出第三方授信服务](#marine-credits)
-  * [Transforming Marine Procurement through Digitalization 海运在线：船东服务将迎来新电商时代](#transforming-marine-procurement-through-digitalization)
-  
----
-
 ### Mar 2020
 
 #### 全球船东联盟在新加坡首次推出船用油团购活动
@@ -241,6 +231,16 @@ Please visit https://bit.ly/2Le4Wiz for more information on Marine Credits.
 据记者了解，平台授信在正式推出前已经小范围开展了试运行，从实际交易情况来看已经得到了船东和供应商的热烈响应。海运在线作为新加坡最主要的海运电商平台之一，相信依托新加坡在全球海运行业的中心地位，有望引领全球海运行业在授信模式和支付模式方面的创新，促进海运业的转型和发展。
 
 ### May 2019
+
+<table>
+  <tr>
+    <td rowspan="2"><a href="https://www.marineonline.com/news/228653270099296271" target="_blank"><img src="https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/fb300ff0-08b3-11e9-b48e-d596b0a9acb5.png" alt="FUTURE-GAZING: THE MARITIME INDUSTRY IN 2050" style="60%;"></a></td>
+    <td><a href="https://www.marineonline.com/news/228653270099296271" target="_blank"><span style="font-weight:bold">FUTURE-GAZING: THE MARITIME INDUSTRY IN 2050</span></a></td>
+  </tr>
+  <tr>
+    <td>Some experts believe that the shipping industry is now entering into another such period of change, as the maritime industry embraces a digital transformation that will leave it fundamentally different by the middle of this century... <a href="https://www.marineonline.com/news/228653270099296271" target="_blank">READ MORE</a></td>
+  </tr>
+</table>
 
 #### Transforming Marine Procurement through Digitalization
 
