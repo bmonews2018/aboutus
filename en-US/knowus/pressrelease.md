@@ -290,4 +290,4 @@ Marine Online is a third party platform servicing the maritime industry globally
   </tr>
 </table>
 
-  [Back to Top](mediacentre#)
+  [Back to Top](pressrelease#)
