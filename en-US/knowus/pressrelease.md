@@ -3,6 +3,8 @@ name: Marine Online Press Release
 ---
 
 ## Marine Online Press Release
+
+![](https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_62a37110-98c1-11ea-8e7c-b14ce86d5878.jpg) 
  
  <table>
       <tr>
