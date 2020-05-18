@@ -9,11 +9,11 @@ name: Marine Online Press Release
  <table>
       <tr>
      <td rowspan="4"><span style="font-weight:bold">Mar 2020</span></td>
-     <td rowspan="2"><a href="https://marineonline.com/maritime-news/news/301834094218575893" target="_blank"><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_ab8540f0-98b9-11ea-8e7c-b14ce86d5878.png" alt="全球船东联盟在新加坡首次推出船用油团购活动"></a></td>
-     <td><a href="https://marineonline.com/maritime-news/news/301834094218575893" target="_blank"><span style="font-weight:bold">全球船东联盟在新加坡首次推出船用油团购活动</span></a></td>
+     <td rowspan="2"><a href="https://marineonline.com/maritime-news/news/301834094218575893" target="_blank"><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_ab8540f0-98b9-11ea-8e7c-b14ce86d5878.png" alt="Bunker price was reduced by 5% with Marine Online’s Bunkering Group Buy"></a></td>
+     <td><a href="https://marineonline.com/maritime-news/news/301834094218575893" target="_blank"><span style="font-weight:bold">BUNKER PRICE WAS REDUCED BY 5% WITH MARINE ONLINE'S BUNKERING GROUP BUY</span></a></td>
    </tr>
      <tr>
-     <td>受新冠疫情等多种因素影响，全球船燃价格暴跌。标普全球数据显示，至3月末，在全球最大的燃供港新加坡，0.5%合规船燃价格较年初下跌458美元/吨或61.8%；脱硫塔适配高硫380价格较一月初下跌... <a href="https://marineonline.com/maritime-news/news/301834094218575893" target="_blank">READ MORE</a></td>
+     <td>The growing maritime e-commerce platform, Marine Online based in Singapore, has organized a “Bunkering Group Buy” campaign for shipowners that aim to reduce bunkering cost, up to 5%. In light of the Covid-19... <a href="https://marineonline.com/maritime-news/news/301834094218575893" target="_blank">READ MORE</a></td>
    </tr>
   <td rowspan="2"><a href="https://marineonline.com/maritime-news/news/301834315543609360" target="_blank"><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_a8e5b6e0-98b9-11ea-8e7c-b14ce86d5878.png" alt="Marine Online introduced Global Shipowner Alliance program"></a></td>
      <td><a href="https://marineonline.com/maritime-news/news/301834315543609360" target="_blank"><span style="font-weight:bold">MARINE ONLINE INTRODUCED GLOBAL SHIPOWNER ALLIANCE PROGRAM</span></a></td>
