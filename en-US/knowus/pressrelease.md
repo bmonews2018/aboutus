@@ -41,7 +41,7 @@ name: Marine Online Press Release
      <td><a href="https://marineonline.com/maritime-news/news/301852913406312469" target="_blank"><span style="font-weight:bold">INTRODUCING CASH TO MASTER (CTM) SERVICE: SIMPLIFYING A TRADITIONAL PRACTICE</span></a></td>
    </tr>
      <tr>
-     <td>Marine Online (www.marineonline.com) announces the launch of Cash to Master (CTM) services to the shipping industry. The CTM service is available to all shipowners or ship management companies when the vessel calls... <a href="https://marineonline.com/maritime-news/news/301852913406312469" target="_blank">READ MORE</a></td>
+     <td>Marine Online (www.marineonline.com) announces the launch of Cash to Master (CTM) services to the shipping industry. The CTM service is available to all shipowners or ship management companies when... <a href="https://marineonline.com/maritime-news/news/301852913406312469" target="_blank">READ MORE</a></td>
    </tr>
      <tr>
      <td rowspan="2"><span style="font-weight:bold">Sep 2019</span></td>
@@ -65,7 +65,7 @@ name: Marine Online Press Release
      <td><a href="https://www.marineonline.com/news/228653270099296271" target="_blank"><span style="font-weight:bold">FUTURE-GAZING: THE MARITIME INDUSTRY IN 2050</span></a></td>
    </tr>
    <tr>
-     <td>Some experts believe that the shipping industry is now entering into another such period of change, as the maritime industry embraces a digital transformation that will leave it fundamentally different by the middle of this century... <a href="https://www.marineonline.com/news/228653270099296271" target="_blank">READ MORE</a></td>
+     <td>Some experts believe that the shipping industry is now entering into another such period of change, as the maritime industry embraces a digital transformation that will leave it fundamentally different by the middle of... <a href="https://www.marineonline.com/news/228653270099296271" target="_blank">READ MORE</a></td>
    </tr>
  </table>
 
