@@ -11,7 +11,7 @@ name: Marine Online Press Release
      <td><a href="https://marineonline.com/maritime-news/news/301834094218575893" target="_blank"><span style="font-weight:bold">全球船东联盟在新加坡首次推出船用油团购活动</span></a></td>
    </tr>
      <tr>
-     <td>受新冠疫情等多种因素影响，全球船燃价格暴跌。标普全球数据显示，至3月末，在全球最大的燃供港新加坡，0.5%合规船燃价格较年初下跌458美元/吨或61.8%；脱硫塔适配高硫380价格较一月初下跌204美元/吨或51%。然而，低价燃油并没有提高船东... <a href="https://marineonline.com/maritime-news/news/301834094218575893" target="_blank">READ MORE</a></td>
+     <td>受新冠疫情等多种因素影响，全球船燃价格暴跌。标普全球数据显示，至3月末，在全球最大的燃供港新加坡，0.5%合规船燃价格较年初下跌458美元/吨或61.8%；脱硫塔适配高硫380价格较一月初下跌... <a href="https://marineonline.com/maritime-news/news/301834094218575893" target="_blank">READ MORE</a></td>
    </tr>
   <td rowspan="2"><a href="https://marineonline.com/maritime-news/news/301834315543609360" target="_blank"><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_a8e5b6e0-98b9-11ea-8e7c-b14ce86d5878.png" alt="Marine Online introduced Global Shipowner Alliance program"></a></td>
      <td><a href="https://marineonline.com/maritime-news/news/301834315543609360" target="_blank"><span style="font-weight:bold">MARINE ONLINE INTRODUCED GLOBAL SHIPOWNER ALLIANCE PROGRAM</span></a></td>
