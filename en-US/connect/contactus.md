@@ -15,7 +15,7 @@ name: Contact Us
 <td><b><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_fcacca70-74b0-11ea-b350-813b5c10a359.jpg"> Whatsapp</b></td>
 </tr>
 <tr>
-<td rowspan="2">Hotline: +65 6571 5888<br>Email: customercare@marineonline.com<br><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_fcacca70-74b0-11ea-b350-813b5c10a359.jpg"> Whatsapp: +65 9111 8388<br><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_0f7a2d00-74b1-11ea-b350-813b5c10a359.jpg"></td>
+<td rowspan="2">Hotline: +65 6571 5888<br>Email: customercare@marineonline.com<br><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_fcacca70-74b0-11ea-b350-813b5c10a359.jpg"> Whatsapp: +65 9111 8388<br><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_0c5c9940-9ef6-11ea-aef6-79813ac2b4ae.png"></td>
 <td>Mr. Kelvin +65 9835 1196</td><td><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_1a02b440-755b-11ea-b9e4-c72c93f84b2e.png"></td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ name: Contact Us
 <td><b><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_9ddd3ed0-74b0-11ea-b350-813b5c10a359.jpg"> Wechat</b></td>
 </tr>
 <tr>
-<td rowspan="2"> Hotline: +86 755 8436 6298 <br> Email: customercare@marineonline.com <br> <img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_9ddd3ed0-74b0-11ea-b350-813b5c10a359.jpg"> Wechat: +65 9111 8388 <br> <img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_e629b2e0-74b0-11ea-b350-813b5c10a359.jpg"> </td>
+<td rowspan="2"> Hotline: +86 755 8436 6298 <br> Email: customercare@marineonline.com <br> <img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_9ddd3ed0-74b0-11ea-b350-813b5c10a359.jpg"> Wechat: +65 9111 8388 <br> <img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_0f62fb70-9ef6-11ea-aef6-79813ac2b4ae.png"> </td>
 <td>Mr. Huang +86 139 2522 1983</td> <td><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_8f714f40-7a0e-11ea-83a3-e32b2ea83995.png"></td>
 </tr>
 <tr>
