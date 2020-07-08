@@ -7,6 +7,18 @@ name: Marine Online Press Release
 ![](https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_62a37110-98c1-11ea-8e7c-b14ce86d5878.jpg) 
  
  <table>
+ <tr>
+     <td rowspan="6"><span style="font-weight:bold">Jun 2020</span></td>
+     <td rowspan="2"><a href="https://marineonline.com/maritime-news/news/306774227929792528" target="_blank"><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_5c928210-b5cd-11ea-9ccd-29dbe4b7a361.png" alt="Marine Online surpasses USD100 million GMV despite COVID-19"></a></td>
+     <td><a href="https://marineonline.com/maritime-news/news/306774227929792528" target="_blank"><span style="font-weight:bold">MARINE ONLINE SURPASSES USD100 MILLION GMV DESPITE COVID-19</span></a></td>
+   </tr>
+     <tr>
+     <td>The growing maritime B2B e-commerce platform, Marine Online today, announced that it had surpassed USD100 million in GMV (Gross Merchandise Volume) despite the ongoing global pandemic COVID-19 crisis... <a href="https://marineonline.com/maritime-news/news/306774227929792528" target="_blank">READ MORE</a></td>
+   </tr>
+  <td rowspan="2"><a href="https://marineonline.com/maritime-news/news/307465863676559381" target="_blank"><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_609df830-b5cd-11ea-9ccd-29dbe4b7a361.png" alt="LIVE BUNKER PRICES OVER 280 PORTS WORLDWIDE BY MARINE ONLINE"></a></td>
+     <td><a href="https://marineonline.com/maritime-news/news/307465863676559381" target="_blank"><span style="font-weight:bold">LIVE BUNKER PRICES OVER 280 PORTS WORLDWIDE BY MARINE ONLINE</span></a></td>
+   </tr>
+     <tr>
        <tr>
      <td rowspan="6"><span style="font-weight:bold">Jun 2020</span></td>
      <td rowspan="2"><a href="https://marineonline.com/maritime-news/news/306774227929792528" target="_blank"><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_5c928210-b5cd-11ea-9ccd-29dbe4b7a361.png" alt="Marine Online surpasses USD100 million GMV despite COVID-19"></a></td>
