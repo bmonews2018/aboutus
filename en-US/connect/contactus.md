@@ -15,7 +15,7 @@ name: Contact Us
 <td><b><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_fcacca70-74b0-11ea-b350-813b5c10a359.jpg"> Whatsapp</b></td>
 </tr>
 <tr>
-<td rowspan="3">Hotline: +65 6571 5888<br>Email: customercare@marineonline.com<br><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_fcacca70-74b0-11ea-b350-813b5c10a359.jpg"> Whatsapp: +65 9111 8388<br><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_0c5c9940-9ef6-11ea-aef6-79813ac2b4ae.png"></td>
+<td rowspan="3">Hotline: +65 6571 5898<br>Email: customercare@marineonline.com<br><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_fcacca70-74b0-11ea-b350-813b5c10a359.jpg"> Whatsapp: +65 9111 8388<br><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_0c5c9940-9ef6-11ea-aef6-79813ac2b4ae.png"></td>
 <td>Hasina Shaik +65 8101 8241</td><td><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_c6caa4f0-b046-11ea-b7dc-43343ac0beaa.png"></td>
 </tr>
 <tr>
