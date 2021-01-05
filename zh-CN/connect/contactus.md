@@ -1,5 +1,5 @@
 ---
-name: Contact Us 
+name: Contact Us Now
 ---
 
 ## Contact Us Now
@@ -8,7 +8,7 @@ name: Contact Us
 
 ### Customer Service
 
-**Customer Service Hotline: +65 6571 5888**
+**Customer Service Hotline: +65 6571 5999**
 
 Email: [customercare@marineonline.com](mailto:customercare@marineonline.com)
 
