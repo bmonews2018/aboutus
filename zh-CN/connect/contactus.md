@@ -1,8 +1,8 @@
 ---
-name: Contact Us Now
+name: Contact Us 
 ---
 
-## Contact Us Now
+## Contact Us 
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/contact.jpg)
 
